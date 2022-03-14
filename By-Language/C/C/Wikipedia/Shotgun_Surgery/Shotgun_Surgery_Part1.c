@@ -1,0 +1,13 @@
+void MyFunc() {
+  ...
+}
+
+void MyFunc2() {
+  ...
+}
+
+...
+
+void MyFuncN() {
+  ...
+}
